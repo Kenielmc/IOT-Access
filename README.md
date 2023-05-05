@@ -20,6 +20,7 @@ NOBODY is safe when it comes to Technology, Purpose of this project is to use Ra
 - [Github - UltraSecurity/Strom-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
 <!--(https://www.youtube.com/watch?v=h_f9lB4i-LA)-->
 
-<a href="https://www.youtube.com/watch?v=h_f9lB4i-LA" target="_blank"><img src="https://github.com/Kenielmc/ESP-32-Router-Process/blob/main/Screenshot%202023-03-15%20115315.png" 
+<a href="https://www.youtube.com/watch?v=h_f9lB4i-LA" target="_blank"><img src="https://github.com/Kenielmc/IOT-Access/blob/main/Screenshot%202023-05-05%20132309.png" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Steps I Followed
