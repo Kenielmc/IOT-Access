@@ -60,7 +60,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 * To run the tunnel enter command 
   * ngrok http 2525
 
-* A black screen will appear copy and paste the fowarding link into your web browser 
+A black screen will appear copy and paste the fowarding link into your web browser 
+![ESP32 Flash Download Tool](https://github.com/Kenielmc/IOT-Access/blob/main/Screenshot%202023-05-06%20144214.png "Logo Title Text 1")
+Don’t be alarm you will get a weird message just select visit site, the site will ask for user name and password (which you can change) which to no surprise the username is admin and could you guess the password?? admin
+
 
  
   
