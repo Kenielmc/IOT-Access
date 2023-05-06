@@ -64,6 +64,14 @@ A black screen will appear copy and paste the fowarding link into your web brows
 ![ESP32 Flash Download Tool](https://github.com/Kenielmc/IOT-Access/blob/main/Screenshot%202023-05-06%20144214.png "Logo Title Text 1")
 Don’t be alarm you will get a weird message just select visit site, the site will ask for user name and password (which you can change) which to no surprise the username is admin and could you guess the password?? admin
 
+![ESP32 Flash Download Tool](https://github.com/Kenielmc/IOT-Access/blob/main/Screenshot%202023-05-06%20144703.png "Logo Title Text 1")
+
+once signed in you should have these 5 hyper links to copy, YOU KNOW YOU MADE IT! HAPPY TRACKING….USE RESPONSIBLY
+
+**** TO RUN STORM BREAKER PROGRAM INPUT python3 st.py ***
+**** Split terminal to run ngrok http tunnel input command ngrok http 80 ***
+
+
 
  
   
