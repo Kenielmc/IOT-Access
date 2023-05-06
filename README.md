@@ -28,3 +28,32 @@ NOBODY is safe when it comes to Technology, Purpose of this project is to use Ra
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Steps I Followed
+* Download [Rasberry PI imager](https://www.raspberrypi.com/software/)
+
+* Save to Micro sd card(make sure it's more than 8gbs)
+
+* Once installed for Username: kali Password: kali
+
+* Open terminal
+
+* you will need to download [StormBreaker](https://github.com/ultrasecurity/Storm-Breaker)
+
+* Enter command in Kali linux and get storm breaker running 
+  * Commands get into the root dir
+  * Sudo su
+  * cd /opt
+  * git clone https://github.com/ultrasecurity/Storm-Breaker.git
+  * apt install python3-requests python3-colorama python3-psutil
+  * bash install.sh
+  * pyhton3 st.py (runs the storms breaker program)
+  * split the terminalby right clicking and selecting split terminal
+  
+* Follow steps to get into the root strom breaker directory
+  * sudo cd /opt
+  * Storm-Breaker
+
+* In the meanwhile you will need to sign up for a free account at Ngrok to be obtain a token to link the system to be able to use the FULL functionality of the software, meaning outside your local network
+  * Go ngrok.com and register
+* Once done you will copy your token and paste it to the second terminal. Your command should look like this
+  * ngrok authtoken XXXXXXXXXXXXXXXXXXXXXXX( the x represents your personal authtoken)
+  
