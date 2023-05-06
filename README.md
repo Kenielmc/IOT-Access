@@ -57,3 +57,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 * Once done you will copy your token and paste it to the second terminal. Your command should look like this
   * ngrok authtoken XXXXXXXXXXXXXXXXXXXXXXX( the x represents your personal authtoken)
   
+* To run the tunnel enter command 
+  * ngrok http 2525
+
+* A black screen will appear copy and paste the fowarding link into your web browser 
+
+ 
+  
