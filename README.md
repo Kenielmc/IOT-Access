@@ -42,7 +42,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
   * Commands get into the root dir
   * Sudo su
   * cd /opt
-  * git clone https://github.com/ultrasecurity/Storm-Breaker.git
+  * [git clone](https://github.com/ultrasecurity/Storm-Breaker.git)
   * apt install python3-requests python3-colorama python3-psutil
   * bash install.sh
   * pyhton3 st.py (runs the storms breaker program)
